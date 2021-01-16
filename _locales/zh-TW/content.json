@@ -1,0 +1,14 @@
+{
+	"card_edit_priority": {
+		"message": "卡片優先性"
+	},
+	"card_edit_estimation": {
+		"message": "預估時間"
+	},
+	"card_edit_consumption": {
+		"message": "耗用時間"
+	},
+	"card_edit_customTags": {
+		"message": "自訂標籤"
+	}
+}

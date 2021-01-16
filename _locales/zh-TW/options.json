@@ -1,0 +1,219 @@
+{
+	"Strelloids - Settings": {
+		"message": "Strelloids - 設置"
+	},
+	"Global settings" : {
+		"message": "全域設置"
+	},
+		"settings|Loop interval": {
+			"message": "Loop interval"
+		},
+			"settings|loopInterval|description": {
+				"message": "下個循環的間隔時間. 如果你變更卡片標題與 eg. 標籤顯示延遲過久, 你可以降低此數值. 如果數值太小, 可能會 \"預熱\" 你的處理器."
+			},
+		"settings|Vertical scroll": {
+			"message": "用水平覆蓋垂直滾動"
+		},
+			"settings|VerticalScroll|description": {
+				"message": "如果啟用，您將能夠在不按住Shift鍵的情況下水平滾動板（僅在默認顯示模式下）"
+			},
+		"settings|Allow Tab key": {
+			"message": "允許在卡片說明和評論中使用Tab鍵"
+		},
+			"settings|AllowTabKey|description": {
+				"message": "如果啟用，您將能夠透過Tab鍵在名片說明中，插入縮進並註釋文本區域。 由於這個，例如。 您可以輕鬆建立巢狀清單."
+			},
+		"settings|Markdown checklists": {
+			"message": "允許在卡片說明和評論中使用Markdown checklist"
+		},
+			"settings|MarkdownChecklists|description": {
+				"message": "如果啟用，您將能夠以Markdown樣式在卡片說明和評論中插入清單。 可以透過在標準列表\" [x] \"中的元素開頭插入，而在\" [] \"中不插入來完成。"
+			},
+		"settings|Markdown tables": {
+			"message": "允許在卡片說明和評論中使用Markdown表"
+		},
+			"settings|MarkdownTables|description": {
+				"message": "如果啟用，您將能夠在卡片說明和評論內以Markdown樣式建立表格."
+			},
+
+	"Default board settings": {
+		"message": "預設主板設置"
+	},
+
+	"Import/Export": {
+		"message": "匯入/匯出"
+	},
+		"Export": {
+			"message": "匯出"
+		},
+			"export|Global settings": {
+				"message": "全域設置"
+			},
+				"export|Global settings|description": {
+					"message": "此選項將加入到整個設置頁面中，匯出所有偏好設置的設定."
+				},
+			"export|Boards settings": {
+				"message": "主板設置"
+			},
+				"export|Boards settings|description": {
+					"message": "該選項將附加到匯出所有板子的所有個人偏好設置（透過擴展圖標觸發的彈出窗口訪問）)."
+				},
+			"export|Lists settings": {
+				"message": "列表設置"
+			},
+				"export|Lists settings|description": {
+					"message": "此選項會將您對所有列表的所有個人偏好設置，增添到匯出（例如，手動折疊）。”."
+				},
+		"Import": {
+			"message": "匯入"
+		},
+			"import|Replace only keys exists in import": {
+				"message": "Replace only keys exists in import"
+			},
+				"import|Replace only keys exists in import|description": {
+					"message": "If checked only settings exists in the import content will be replaced."
+				},
+			"import|Remove all old settings before import": {
+				"message": "Remove all old settings before import"
+			},
+				"import|Remove all old settings before import|description": {
+					"message": "If checked first step will be clean up all your settings and the second one will be import content as your settings."
+				},
+
+			"Invalid JSON to import!": {
+				"message": "有誤的 JSON 匯入!"
+			},
+			"Data imported": {
+				"message": "資料已匯入"
+			},
+
+	"Modules settings": {
+		"message": "模組設置"
+	},
+
+	"module|Lists collapsing": {
+		"message": "清單摺疊"
+	},
+		"module|ListCollapsing|Auto collapse empty lists": {
+			"message": "自動收折疊空清單"
+		},
+
+	"module|Colored lists": {
+		"message": "色彩清單"
+	},
+		"module|ColoredLists|Coloring schemes": {
+			"message": "著色架構"
+		},
+		"module|ColoredLists|Reset all": {
+			"message": "\u21BA 全部重置"
+		},
+		"module|ColoredLists|ResetAll|description": {
+			"message": "Will reset ALL above color schemes to default."
+		},
+
+	"module|Cards prioritization": {
+		"message": "Cards prioritization"
+	},
+		"module|CardsPrioritization|Default colors": {
+			"message": "域設顏色"
+		},
+		"module|CardsPrioritization|Critical": {
+			"message": "重大"
+		},
+		"module|CardsPrioritization|High": {
+			"message": "高"
+		},
+		"module|CardsPrioritization|Medium": {
+			"message": "中"
+		},
+		"module|CardsPrioritization|Low": {
+			"message": "低"
+		},
+		"module|CardsPrioritization|Lowest": {
+			"message": "最低"
+		},
+
+	"module|Scrum times": {
+		"message": "Scrum 時間"
+	},
+		"module|Scrum|Story points buttons sequence": {
+			"message": "故事點數按鈕順次"
+		},
+		"module|Scrum|Team 1 estimation label colors": {
+			"message": "Team 1 預估時間 - 標籤顏色"
+		},
+		"module|Scrum|Team 1 consumption label colors": {
+			"message": "Team 1 耗用時間 - 標籤顏色"
+		},
+		"module|Scrum|Team 2 estimation label colors": {
+			"message": "Team 2 預估時間 - 標籤顏色"
+		},
+		"module|Scrum|Team 2 consumption label colors": {
+			"message": "Team 2 耗用時間 - 標籤顏色"
+		},
+
+	"About": {
+		"message": "關於"
+	},
+		"about|Source code": {
+			"message": "原始碼:"
+		},
+			"about|SourceCode|description": {
+				"message": "Strelloids is open source software. You can check, verify or even edit this code. It is published on GitHub."
+			},
+			"about|SourceCode|link": {
+				"message": "原始碼於 GitHub"
+			},
+		"about|Need more help": {
+			"message": "需要任何協助嗎?"
+		},
+			"about|NeedHelp|description": {
+				"message": "Check the wiki for more help, descriptions and examples."
+			},
+			"about|NeedHelp|link": {
+				"message": "Wiki on GitHub"
+			},
+		"about|Found a bug": {
+			"message": "有任何問題或找到臭蟲了嗎？"
+		},
+			"about|FoundBug|description": {
+				"message": "I'm not Mr. Robot. I'm making a lot of bugs!"
+			},
+			"about|FoundBug|link": {
+				"message": "於 GitHub 上建立一個問題"
+			},
+		"about|Email": {
+			"message": "E-mail:"
+		},
+			"about|Email|description": {
+				"message": "If you prefer the old way of contact."
+			},
+		"about|Donate": {
+			"message": "Donate:"
+		},
+			"about|Donate|description": {
+				"message": "If you enjoying, consider donation for more coffee via PayPal."
+			},
+			"about|Donate|PayPal button description": {
+				"message": "PayPal - The safer, easier way to pay online!"
+			},
+
+	"Background color": {
+		"message": "背景顏色"
+	},
+	"Font color": {
+		"message": "字型顏色"
+	},
+	"Help": {
+		"message": "\u2753 幫助"
+	},
+	"Cancel": {
+		"message": "取消"
+	},
+	"Save": {
+		"message": "儲存"
+	},
+	"Reset to default": {
+		"message": "重置為原始值"
+	}
+}

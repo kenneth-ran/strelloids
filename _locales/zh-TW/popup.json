@@ -1,0 +1,90 @@
+{
+	"Popup menu":{
+		"message": "Strelloids 選單"
+	},
+	"Board settings": {
+		"message": "板子設置"
+	},
+	"popup|Title": {
+		"message": "Strelloids 板子設置"
+	},
+
+	"Expand all lists": {
+		"message": "展開所有清單"
+	},
+	"Collapse all lists": {
+		"message": "收折所有清單"
+	},
+
+	"popup|section|Lists settings": {
+		"message": "清單設置"
+	},
+		"popup|lists|Display mode": {
+			"message": "顯示模式"
+		},
+			"popup|lists|displayMode|Default" : {
+				"message": "預設"
+			},
+			"popup|lists|displayMode|Multiple rows" : {
+				"message": "多重行列"
+			},
+			"popup|lists|displayMode|Table" : {
+				"message": "表格"
+			},
+		"popup|lists|Enable colored lists": {
+			"message": "開啟色彩畫清單"
+		},
+		"popup|lists|Show list cards counter": {
+			"message": "顯示清單卡片計數"
+		},
+
+	"popup|section|Cards settings": {
+		"message": "卡片設置"
+	},
+		"popup|cards|Show cards short ID": {
+			"message": "顯示卡片的短 ID"
+		},
+		"popup|cards|Enable custom tags for cards": {
+			"message": "開啟自定義標簽給卡片"
+		},
+			"popup|cards|Enable custom tags for cards|tooltip" : {
+				"message": "要製作標籤，請將其名稱放在方括號內的卡片標題中（例如\" [標籤名稱] \"）"
+			},
+		"popup|cards|Enable cards separator": {
+			"message": "開啟卡片間隔"
+		},
+			"popup|cards|Enable cards separator|tooltip": {
+				"message": "要建立分頁線，請使用三個或更多符號開頭卡標題： - 或 = (eg. \"--- My separator\")"
+			},
+		"popup|cards|Enable cards prioritization": {
+			"message": "開啟卡片優先性"
+		},
+			"popup|cards|Enable cards prioritization|tooltip": {
+				"message": "To set priority for the card, insert into their title one of this keywords: \"!1\", \"!2\", \"!3\", \"!4\" or \"!5\", where 1 is the highest priority."
+			},
+
+	"popup|section|Scrum settings": {
+		"message": "Scrum 設置"
+	},
+		"popup|scrum|Enable scrum times": {
+			"message": "開啟 scrum 時間"
+		},
+			"popup|scrum|Enable scrum times|tooltip" : {
+				"message": "欲加入預估點數給卡片, 放他到以下括弧內 (eg. \"(3)\", \"(0.5)\", \"(?)\"). 設定 耗用點數, 放入到 方框  (eg. \"[5]\", \"[2.5]\")."
+			},
+			"popup|scrum|Show sum times for lists": {
+				"message": "顯示清單總時數"
+			},
+			"popup|scrum|Show estimations": {
+				"message": "顯示預估時數"
+			},
+			"popup|scrum|Show consumptions": {
+				"message": "顯示耗用時數"
+			},
+			"popup|scrum|Show team1": {
+				"message": "顯示團 1"
+			},
+			"popup|scrum|Show team2": {
+				"message": "顯示團 2"
+			}
+}
